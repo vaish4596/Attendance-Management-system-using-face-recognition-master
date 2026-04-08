@@ -88,7 +88,7 @@ python attendance.py
 ## 📸 Screenshots
 
 ### 🏠 Home Screen
-![Home](Project Snap/1.png)
+![Home](Project_Snap/1.png)
 
 ---
 
@@ -133,7 +133,3 @@ python attendance.py
 B.E – Information Science and Engineering
 
 ---
-
-
-✅ Add **badges & styling (cool look)**
-✅ Make it **resume-ready project**
