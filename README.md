@@ -34,24 +34,7 @@ It eliminates the need for manual attendance, reduces errors, and prevents proxy
 
 ---
 
-## 📂 Project Structure
 
-```text
-Smart-Attendance-System/
-│
-├── Attendance/              # Stores attendance CSV files
-├── StudentDetails/          # Stores student data
-├── TrainingImage/           # Captured images
-├── TrainingImageLabel/      # Trained model file
-│
-├── attendance.py            # Main UI file
-├── takeImage.py             # Capture images
-├── trainImage.py            # Train model
-├── automaticAttedance.py    # Mark attendance
-├── show_attendance.py       # View attendance
-│
-└── haarcascade_frontalface_default.xml
-```
 
 ---
 
@@ -104,7 +87,8 @@ python attendance.py
 
 ## 📸 Screenshots
 
-*(Add your project screenshots here for better presentation)*
+### 🏠 Home Screen
+![Home](Project Snap/1.png)
 
 ---
 
