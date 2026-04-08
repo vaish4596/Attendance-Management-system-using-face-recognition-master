@@ -88,7 +88,7 @@ python attendance.py
 ## 📸 Screenshots
 
 ### 🏠 Home Screen
-![Home](Project_Snap/1.png)
+![Home](Project_Snap/1.PNG)
 
 ---
 
