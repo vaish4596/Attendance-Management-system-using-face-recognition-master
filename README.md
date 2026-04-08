@@ -1,5 +1,3 @@
-Here’s a **clean, professional README.md description** for your project 👇 (you can directly paste into GitHub)
-
 ---
 
 # 📌 **Smart Attendance System using Face Recognition**
@@ -31,10 +29,6 @@ It eliminates the need for manual attendance, reduces errors, and prevents proxy
 * Tkinter
 * Pandas
 * NumPy
-
----
-
-
 
 ---
 
