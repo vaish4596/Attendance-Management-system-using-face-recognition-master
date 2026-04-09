@@ -84,6 +84,21 @@ python attendance.py
 ### 🏠 Home Screen
 ![Home](Project_Snap/1.PNG)
 
+### 📝 Register Page
+![Register](Project_Snap/2.PNG)
+
+### 👤 Face Recognition
+![Face Recognition](Project_Snap/4.PNG)
+
+### ✅ Mark Attendance
+![Attendance Marking](Project_Snap/6.PNG)
+
+### 📋 Marked Attendance Table
+![Table](Project_Snap/7.PNG)
+
+### 🔍 View Attendance
+![View Attendance](Project_Snap/8.PNG)
+
 ---
 
 ## ✅ Advantages
